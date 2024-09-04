@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852369856522",
+    "project_id": "sekolahku-43ea3",
+    "storage_bucket": "sekolahku-43ea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852369856522:android:e31c23470515ff94a1a7f3",
+        "android_client_info": {
+          "package_name": "com.example.sekolahku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsMy8JI8Tmutqg29__Xr63g8EQ37Bgc9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
